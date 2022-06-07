@@ -9,9 +9,11 @@ Testes de API
 
 
 ### Instalações
-npm init -y
-npm i --save-dev supertest mocha chai
-npm i @babel/register @babel/node @babel/preset-env @babel/core
+- npm init -y
+
+- npm i --save-dev supertest mocha chai
+
+- npm i @babel/register @babel/node @babel/preset-env @babel/core
 
 ### Api para testes
 https://reqres.in/
